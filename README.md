@@ -84,3 +84,5 @@ The trained model then predicts the estimated house price.
 
 ```bash
 pip install pandas numpy matplotlib scikit-learn
+
+live Demo[ https://princekumar385737-collab.github.io/SCT_ML_01/]
